@@ -1,0 +1,27 @@
+{
+  "name": "api-ignite",
+  "version": "1.0.0",
+  "description": "this is ignite api that has a lot of fundamentals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hreis/api-ignite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hreis/api-ignite/issues"
+  },
+  "homepage": "https://github.com/hreis/api-ignite#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
